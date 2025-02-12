@@ -10,3 +10,9 @@ Features:
 - has no interface
 - definitions must be written manually in the ini file
 - ini file can be limited to the file size and maximum number of files to be opened
+
+Project page: https://github.com/efesreal/TCF4-TotalCommander_EditRedirector
+
+Installation:
+- Download TCF4_exe.zip, extract it to your desired location.
+- Set TC's F4 editor with TCF4.exe "%1"
